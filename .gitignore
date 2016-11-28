@@ -1,0 +1,14 @@
+# weights
+*.h5
+
+# folder
+.idea
+__pycache__
+
+# databases
+db.sqlite3
+
+# tmp
+*.swp
+*.pyc
+.DS_Store
